@@ -1,0 +1,73 @@
+.ms-Blog-hero {
+  max-height: 550px;
+  overflow: hidden;
+}
+
+.ms-Blog-hero img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto\9;
+}
+
+.ms-Blog-header h1 {
+  margin: 0px;
+  font-size: 68px;
+}
+
+.ms-Blog-header h2 {
+  margin: 0px;
+  font-size: 32px;
+}
+
+.ms-Blog-header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.ms-Blog-header p {
+  margin: 0px;
+  text-align: center;
+}
+
+h3.ms-Blog-text {
+  font-weight: bold;
+}
+
+.ms-Blog-text--quote {
+  text-align: center;
+  font-style: italic;
+  color: gray;
+  margin: 40px 0;
+  padding: 40px;
+  border-top: 1px solid #c8c8c8;
+  border-bottom: 1px solid #c8c8c8;
+}
+
+.ms-Blog-comments {
+  padding-bottom: 15px;
+}
+
+.ms-Blog-comments h3 {
+  text-decoration: underline;
+  margin-bottom: 0px;
+}
+
+.ms-Blog-comments--comment {
+
+}
+
+.ms-Blog-comments--commentBlock {
+  margin-bottom: 10px;
+  padding: 1px;
+  border-radius: 10px;
+  margin-left: 25px;
+}
+
+.ms-Blog-comments--commentBlock p {
+  margin-left: 20px;
+}
